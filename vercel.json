@@ -1,0 +1,14 @@
+{
+  "buildCommand": "yarn build",
+  "outputDirectory": "build",
+  "installCommand": "yarn install",
+  "framework": null,
+  "env": {
+    "NODE_VERSION": "16.20.2"
+  },
+  "build": {
+    "env": {
+      "NODE_VERSION": "16.20.2"
+    }
+  }
+}
